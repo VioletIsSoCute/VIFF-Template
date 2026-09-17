@@ -1,0 +1,3782 @@
+{
+  "units": [
+    {
+      "id": "U-1",
+      "unit_type": "Shredding",
+      "display_name": "Shredding",
+      "design_results": {
+        "number_of_units": 1
+      },
+      "purchase_costs": {
+        "equipment_purchase_cost": 220000
+      },
+      "installed_costs": {
+        "equipment_installed_cost": 352000
+      }
+    },
+    {
+      "id": "U-2",
+      "unit_type": "Generic",
+      "display_name": "Generic",
+      "design_results": {
+        "number_of_units": 1
+      },
+      "purchase_costs": {
+        "equipment_purchase_cost": 74000
+      },
+      "installed_costs": {
+        "equipment_installed_cost": 118400
+      }
+    },
+    {
+      "id": "U-3",
+      "unit_type": "Reaction",
+      "display_name": "Reaction",
+      "design_results": {
+        "number_of_units": 1
+      },
+      "purchase_costs": {
+        "equipment_purchase_cost": 3857000
+      },
+      "installed_costs": {
+        "equipment_installed_cost": 6171200
+      }
+    },
+    {
+      "id": "U-4",
+      "unit_type": "Storage",
+      "display_name": "Storage",
+      "design_results": {
+        "volume_m3": 153.4731000394709,
+        "diameter_m": 4.023528141017905,
+        "number_of_units": 1
+      },
+      "purchase_costs": {
+        "equipment_purchase_cost": 103000
+      },
+      "installed_costs": {
+        "equipment_installed_cost": 164800
+      }
+    },
+    {
+      "id": "U-5",
+      "unit_type": "Generic",
+      "display_name": "Generic",
+      "design_results": {
+        "number_of_units": 1
+      },
+      "purchase_costs": {
+        "equipment_purchase_cost": 0
+      }
+    },
+    {
+      "id": "U-6",
+      "unit_type": "Generic",
+      "display_name": "Generic",
+      "design_results": {
+        "number_of_units": 1
+      },
+      "purchase_costs": {
+        "equipment_purchase_cost": 0
+      }
+    },
+    {
+      "id": "U-7",
+      "unit_type": "Drying",
+      "display_name": "Drying",
+      "design_results": {
+        "volume_m3": 201.0869565216797,
+        "number_of_units": 3
+      },
+      "purchase_costs": {
+        "equipment_purchase_cost": 1677000
+      },
+      "installed_costs": {
+        "equipment_installed_cost": 2683200
+      }
+    },
+    {
+      "id": "U-8",
+      "unit_type": "Mixing",
+      "display_name": "Mixing",
+      "design_results": {
+        "number_of_units": 1
+      },
+      "purchase_costs": {
+        "equipment_purchase_cost": 0
+      }
+    },
+    {
+      "id": "U-9",
+      "unit_type": "Burner",
+      "display_name": "Burner",
+      "design_results": {
+        "volume_m3": 78.40239465012414,
+        "diameter_m": 2.153177413092842,
+        "number_of_units": 1
+      },
+      "purchase_costs": {
+        "equipment_purchase_cost": 140000
+      },
+      "installed_costs": {
+        "equipment_installed_cost": 224000
+      }
+    },
+    {
+      "id": "U-10",
+      "unit_type": "Cyclone",
+      "display_name": "Cyclone",
+      "design_results": {
+        "number_of_units": 1
+      },
+      "purchase_costs": {
+        "equipment_purchase_cost": 2500
+      },
+      "installed_costs": {
+        "equipment_installed_cost": 4000
+      }
+    },
+    {
+      "id": "U-11",
+      "unit_type": "HeatExchange",
+      "display_name": "HeatExchange",
+      "design_results": {
+        "number_of_units": 1
+      },
+      "purchase_costs": {
+        "equipment_purchase_cost": 437000
+      },
+      "installed_costs": {
+        "equipment_installed_cost": 699200
+      }
+    },
+    {
+      "id": "U-12",
+      "unit_type": "Generic",
+      "display_name": "Generic",
+      "design_results": {
+        "number_of_units": 1
+      },
+      "purchase_costs": {
+        "equipment_purchase_cost": 0
+      }
+    },
+    {
+      "id": "U-13",
+      "unit_type": "HeatExchange",
+      "display_name": "HeatExchange",
+      "design_results": {
+        "number_of_units": 1
+      },
+      "purchase_costs": {
+        "equipment_purchase_cost": 56000
+      },
+      "installed_costs": {
+        "equipment_installed_cost": 89600
+      }
+    },
+    {
+      "id": "U-14",
+      "unit_type": "Mixing",
+      "display_name": "Mixing",
+      "design_results": {
+        "number_of_units": 1
+      },
+      "purchase_costs": {
+        "equipment_purchase_cost": 0
+      }
+    },
+    {
+      "id": "U-15",
+      "unit_type": "Generic",
+      "display_name": "Generic",
+      "design_results": {
+        "number_of_units": 1
+      },
+      "purchase_costs": {
+        "equipment_purchase_cost": 0
+      }
+    },
+    {
+      "id": "U-16",
+      "unit_type": "Gas Flow",
+      "display_name": "Gas Flow",
+      "design_results": {
+        "number_of_units": 1
+      },
+      "purchase_costs": {
+        "equipment_purchase_cost": 78000
+      },
+      "installed_costs": {
+        "equipment_installed_cost": 124800
+      }
+    },
+    {
+      "id": "U-17",
+      "unit_type": "Gas Flow",
+      "display_name": "Gas Flow",
+      "design_results": {
+        "number_of_units": 1
+      },
+      "purchase_costs": {
+        "equipment_purchase_cost": 11000
+      },
+      "installed_costs": {
+        "equipment_installed_cost": 17600
+      }
+    },
+    {
+      "id": "U-18",
+      "unit_type": "Generic",
+      "display_name": "Generic",
+      "design_results": {
+        "volume_m3": 0.09592068752466935,
+        "diameter_m": 0.3125509357097734,
+        "number_of_units": 1
+      },
+      "purchase_costs": {
+        "equipment_purchase_cost": 5500
+      },
+      "installed_costs": {
+        "equipment_installed_cost": 8800
+      }
+    },
+    {
+      "id": "U-19",
+      "unit_type": "HeatExchange",
+      "display_name": "HeatExchange",
+      "design_results": {
+        "number_of_units": 1
+      },
+      "purchase_costs": {
+        "equipment_purchase_cost": 167000
+      },
+      "installed_costs": {
+        "equipment_installed_cost": 267200
+      }
+    },
+    {
+      "id": "U-20",
+      "unit_type": "Generic",
+      "display_name": "Generic",
+      "design_results": {
+        "volume_m3": 0.08108007706550732,
+        "diameter_m": 0.2955208269481431,
+        "number_of_units": 1
+      },
+      "purchase_costs": {
+        "equipment_purchase_cost": 5000
+      },
+      "installed_costs": {
+        "equipment_installed_cost": 8000
+      }
+    },
+    {
+      "id": "U-21",
+      "unit_type": "HeatExchange",
+      "display_name": "HeatExchange",
+      "design_results": {
+        "number_of_units": 1
+      },
+      "purchase_costs": {
+        "equipment_purchase_cost": 280000
+      },
+      "installed_costs": {
+        "equipment_installed_cost": 448000
+      }
+    },
+    {
+      "id": "U-22",
+      "unit_type": "Storage",
+      "display_name": "Storage",
+      "design_results": {
+        "volume_m3": 129.2419457937222,
+        "diameter_m": 3.799537926448693,
+        "number_of_units": 1
+      },
+      "purchase_costs": {
+        "equipment_purchase_cost": 93000
+      },
+      "installed_costs": {
+        "equipment_installed_cost": 148800
+      }
+    }
+  ],
+  "streams": [
+    {
+      "id": "S-1",
+      "price": {
+        "units": "USD/kg",
+        "value": 0
+      },
+      "stream_type": "internal",
+      "display_name": "S 106",
+      "sink_unit_id": "U-6",
+      "source_unit_id": "U-5",
+      "stream_properties": {
+        "pressure": {
+          "units": "Pa",
+          "value": 101300
+        },
+        "composition": [
+          {
+            "phase": "l",
+            "mol_fraction": 0.1306388594041071,
+            "component_name": "Carb. Dioxide"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.7093526500921965,
+            "component_name": "Nitrogen"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.0002209055095946307,
+            "component_name": "Oxygen"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.1597875849941019,
+            "component_name": "Water"
+          }
+        ],
+        "temperature": {
+          "units": "K",
+          "value": 1489.150088079298
+        },
+        "total_mass_flow": {
+          "units": "kg/h",
+          "value": 62677.15249625913
+        },
+        "total_molar_flow": {
+          "units": "kmol/h",
+          "value": 2.16
+        },
+        "total_volumetric_flow": {
+          "units": "m3/h",
+          "value": 268738.9185485243
+        }
+      },
+      "_kb_price_suggestion": {
+        "source": "knowledge_base",
+        "confidence": "high",
+        "matched_key": "s-106",
+        "price_range": {
+          "max": 76.6,
+          "min": 0.005
+        },
+        "median_usd_kg": 0.0218,
+        "n_observations": 9
+      }
+    },
+    {
+      "id": "S-2",
+      "price": {
+        "units": "USD/kg",
+        "value": 0
+      },
+      "stream_type": "internal",
+      "display_name": "S 109",
+      "sink_unit_id": "U-3",
+      "source_unit_id": "U-6",
+      "stream_properties": {
+        "pressure": {
+          "units": "Pa",
+          "value": 101300
+        },
+        "composition": [
+          {
+            "phase": "l",
+            "mol_fraction": 0.1306388594041071,
+            "component_name": "Carb. Dioxide"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.7093526500921964,
+            "component_name": "Nitrogen"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.0002209055095946306,
+            "component_name": "Oxygen"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.1597875849941019,
+            "component_name": "Water"
+          }
+        ],
+        "temperature": {
+          "units": "K",
+          "value": 1489.150088079308
+        },
+        "total_mass_flow": {
+          "units": "kg/h",
+          "value": 40499.99999998801
+        },
+        "total_molar_flow": {
+          "units": "kmol/h",
+          "value": 1.44
+        },
+        "total_volumetric_flow": {
+          "units": "m3/h",
+          "value": 173650.6169750085
+        }
+      },
+      "_kb_price_suggestion": {
+        "source": "knowledge_base",
+        "confidence": "high",
+        "matched_key": "s-109",
+        "price_range": {
+          "max": 2000,
+          "min": 0.02989
+        },
+        "median_usd_kg": 0.07,
+        "n_observations": 12
+      }
+    },
+    {
+      "id": "S-3",
+      "price": {
+        "units": "USD/kg",
+        "value": 0
+      },
+      "stream_type": "internal",
+      "display_name": "S 108",
+      "sink_unit_id": "U-3",
+      "source_unit_id": "U-2",
+      "stream_properties": {
+        "pressure": {
+          "units": "Pa",
+          "value": 101325
+        },
+        "composition": [
+          {
+            "phase": "l",
+            "mol_fraction": 0.4169582965717832,
+            "component_name": "Water"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.5830417034282168,
+            "component_name": "Wood Biomass"
+          }
+        ],
+        "temperature": {
+          "units": "K",
+          "value": 368.1500000524444
+        },
+        "total_mass_flow": {
+          "units": "kg/h",
+          "value": 17934.78260869035
+        },
+        "total_molar_flow": {
+          "units": "kmol/h",
+          "value": 997.2
+        },
+        "total_volumetric_flow": {
+          "units": "m3/h",
+          "value": 16.17758186842298
+        }
+      },
+      "_kb_price_suggestion": {
+        "source": "knowledge_base",
+        "confidence": "high",
+        "matched_key": "s-108",
+        "price_range": {
+          "max": 261.04315,
+          "min": 0.005
+        },
+        "median_usd_kg": 0.05,
+        "n_observations": 13
+      }
+    },
+    {
+      "id": "S-4",
+      "price": {
+        "units": "USD/kg",
+        "value": 0
+      },
+      "stream_type": "internal",
+      "display_name": "S 103",
+      "sink_unit_id": "U-2",
+      "source_unit_id": "U-7",
+      "stream_properties": {
+        "pressure": {
+          "units": "Pa",
+          "value": 101325
+        },
+        "composition": [
+          {
+            "phase": "l",
+            "mol_fraction": 0.4169582965717832,
+            "component_name": "Water"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.5830417034282168,
+            "component_name": "Wood Biomass"
+          }
+        ],
+        "temperature": {
+          "units": "K",
+          "value": 368.15
+        },
+        "total_mass_flow": {
+          "units": "kg/h",
+          "value": 17934.78260869035
+        },
+        "total_molar_flow": {
+          "units": "kmol/h",
+          "value": 997.2
+        },
+        "total_volumetric_flow": {
+          "units": "m3/h",
+          "value": 16.17758186789361
+        }
+      },
+      "_kb_price_suggestion": {
+        "source": "knowledge_base",
+        "confidence": "high",
+        "matched_key": "s-103",
+        "price_range": {
+          "max": 40.294,
+          "min": 0.001
+        },
+        "median_usd_kg": 2.26788,
+        "n_observations": 15
+      }
+    },
+    {
+      "id": "S-5",
+      "price": {
+        "units": "USD/kg",
+        "value": 0
+      },
+      "stream_type": "internal",
+      "display_name": "S 115",
+      "sink_unit_id": "U-9",
+      "source_unit_id": "U-8",
+      "stream_properties": {
+        "pressure": {
+          "units": "Pa",
+          "value": 101300
+        },
+        "composition": [
+          {
+            "phase": "l",
+            "mol_fraction": 0.000001739245765368774,
+            "component_name": "1,2-Cyclopentan"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 7.267433370870407e-7,
+            "component_name": "2methox4vinylph"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.0000377796611434511,
+            "component_name": "3met,2cyclopent"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.001781283865825143,
+            "component_name": "Acetic-Acid"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.06992516111519678,
+            "component_name": "Carb. Dioxide"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.04052929779519909,
+            "component_name": "Carbon Monoxide"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.000001579914986308415,
+            "component_name": "Creosol"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.002900649449786622,
+            "component_name": "Ethyl Alcohol"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.00005253330629452896,
+            "component_name": "FURFURAL"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.0007242103310075052,
+            "component_name": "Glycolaldehyde"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.000001513200143572539,
+            "component_name": "Guaiacol"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.08891178189563963,
+            "component_name": "Hydrogen"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.0003969602934722659,
+            "component_name": "Hydroxyacetone"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 7.443643487567194e-10,
+            "component_name": "Hydroxymethylfu"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 6.87288203577539e-8,
+            "component_name": "Isoeugenol"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 1.023026605061194e-10,
+            "component_name": "Levoglucosan"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.6677993016433948,
+            "component_name": "Nitrogen"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.08060306808101815,
+            "component_name": "Oxygen"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.04633234388230228,
+            "component_name": "Water"
+          }
+        ],
+        "temperature": {
+          "units": "K",
+          "value": 311.3113706933542
+        },
+        "total_mass_flow": {
+          "units": "kg/h",
+          "value": 74110.19881500932
+        },
+        "total_molar_flow": {
+          "units": "kmol/h",
+          "value": 2916
+        },
+        "total_volumetric_flow": {
+          "units": "m3/h",
+          "value": 70562.15073409064
+        }
+      },
+      "_kb_price_suggestion": {
+        "source": "knowledge_base",
+        "confidence": "high",
+        "matched_key": "s-115",
+        "price_range": {
+          "max": 3.3936,
+          "min": 0.001
+        },
+        "median_usd_kg": 0.075,
+        "n_observations": 12
+      }
+    },
+    {
+      "id": "S-6",
+      "price": {
+        "units": "USD/kg",
+        "value": 0
+      },
+      "stream_type": "internal",
+      "display_name": "S 113",
+      "sink_unit_id": "U-5",
+      "source_unit_id": "U-9",
+      "stream_properties": {
+        "pressure": {
+          "units": "Pa",
+          "value": 101300
+        },
+        "composition": [
+          {
+            "phase": "l",
+            "mol_fraction": 0.1306388594041071,
+            "component_name": "Carb. Dioxide"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.7093526500921965,
+            "component_name": "Nitrogen"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.0002209055095946307,
+            "component_name": "Oxygen"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.1597875849941019,
+            "component_name": "Water"
+          }
+        ],
+        "temperature": {
+          "units": "K",
+          "value": 1489.150088079298
+        },
+        "total_mass_flow": {
+          "units": "kg/h",
+          "value": 74110.1607038723
+        },
+        "total_molar_flow": {
+          "units": "kmol/h",
+          "value": 2.52
+        },
+        "total_volumetric_flow": {
+          "units": "m3/h",
+          "value": 317759.8797616831
+        }
+      },
+      "_kb_price_suggestion": {
+        "source": "knowledge_base",
+        "confidence": "high",
+        "matched_key": "s-113",
+        "price_range": {
+          "max": 0.1,
+          "min": 0.001
+        },
+        "median_usd_kg": 0.0065,
+        "n_observations": 8
+      }
+    },
+    {
+      "id": "S-7",
+      "price": {
+        "units": "USD/kg",
+        "value": 0
+      },
+      "stream_type": "product",
+      "display_name": "Bio Char",
+      "sink_unit_id": "None",
+      "source_unit_id": "U-10",
+      "stream_properties": {
+        "pressure": {
+          "units": "Pa",
+          "value": 101325
+        },
+        "composition": [
+          {
+            "phase": "l",
+            "mol_fraction": 0.9999999999999999,
+            "component_name": "Char"
+          }
+        ],
+        "temperature": {
+          "units": "K",
+          "value": 298.15
+        },
+        "total_mass_flow": {
+          "units": "kg/h",
+          "value": 3299.999999999025
+        },
+        "total_molar_flow": {
+          "units": "kmol/h",
+          "value": 0
+        },
+        "total_volumetric_flow": {
+          "units": "m3/h",
+          "value": 1.425079207214821
+        }
+      }
+    },
+    {
+      "id": "S-8",
+      "price": {
+        "units": "USD/kg",
+        "value": 0
+      },
+      "stream_type": "internal",
+      "display_name": "S 111",
+      "sink_unit_id": "U-7",
+      "source_unit_id": "U-6",
+      "stream_properties": {
+        "pressure": {
+          "units": "Pa",
+          "value": 101300
+        },
+        "composition": [
+          {
+            "phase": "l",
+            "mol_fraction": 0.1306388594041071,
+            "component_name": "Carb. Dioxide"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.7093526500921964,
+            "component_name": "Nitrogen"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.0002209055095946306,
+            "component_name": "Oxygen"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.1597875849941019,
+            "component_name": "Water"
+          }
+        ],
+        "temperature": {
+          "units": "K",
+          "value": 1489.150088079298
+        },
+        "total_mass_flow": {
+          "units": "kg/h",
+          "value": 22177.1524962711
+        },
+        "total_molar_flow": {
+          "units": "kmol/h",
+          "value": 0.7200000000000001
+        },
+        "total_volumetric_flow": {
+          "units": "m3/h",
+          "value": 95088.30157351699
+        }
+      },
+      "_kb_price_suggestion": {
+        "source": "knowledge_base",
+        "confidence": "high",
+        "matched_key": "s-111",
+        "price_range": {
+          "max": 60.66029,
+          "min": 0.003
+        },
+        "median_usd_kg": 0.91977,
+        "n_observations": 12
+      }
+    },
+    {
+      "id": "S-9",
+      "price": {
+        "units": "USD/kg",
+        "value": 0
+      },
+      "stream_type": "internal",
+      "display_name": "S 102",
+      "sink_unit_id": "U-7",
+      "source_unit_id": "U-1",
+      "stream_properties": {
+        "pressure": {
+          "units": "Pa",
+          "value": 101325
+        },
+        "composition": [
+          {
+            "phase": "l",
+            "mol_fraction": 0.8706145977995374,
+            "component_name": "Water"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.1293854022004627,
+            "component_name": "Wood Biomass"
+          }
+        ],
+        "temperature": {
+          "units": "K",
+          "value": 332.412605269636
+        },
+        "total_mass_flow": {
+          "units": "kg/h",
+          "value": 29999.99999999113
+        },
+        "total_molar_flow": {
+          "units": "kmol/h",
+          "value": 1666.8
+        },
+        "total_volumetric_flow": {
+          "units": "m3/h",
+          "value": 28.10851746271575
+        }
+      },
+      "_kb_price_suggestion": {
+        "source": "knowledge_base",
+        "confidence": "high",
+        "matched_key": "s-102",
+        "price_range": {
+          "max": 90,
+          "min": 0.001
+        },
+        "median_usd_kg": 0.27,
+        "n_observations": 16
+      }
+    },
+    {
+      "id": "S-10",
+      "price": {
+        "units": "USD/kg",
+        "value": 0
+      },
+      "stream_type": "internal",
+      "display_name": "S 126",
+      "sink_unit_id": "U-3",
+      "source_unit_id": "U-12",
+      "stream_properties": {
+        "pressure": {
+          "units": "Pa",
+          "value": 103300
+        },
+        "composition": [
+          {
+            "phase": "l",
+            "mol_fraction": 0.00256804703502473,
+            "component_name": "1,2-Cyclopentan"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.001118360255711421,
+            "component_name": "2methox4vinylph"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.001497859483108359,
+            "component_name": "3met,2cyclopent"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.00839018807330062,
+            "component_name": "Acetic-Acid"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.0982788445797606,
+            "component_name": "Carb. Dioxide"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.05696336619631394,
+            "component_name": "Carbon Monoxide"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.002431267923016417,
+            "component_name": "Creosol"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.006379907947067541,
+            "component_name": "Ethyl Alcohol"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.001747934045359619,
+            "component_name": "FURFURAL"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.00839018807330062,
+            "component_name": "Glycolaldehyde"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.001691195897697444,
+            "component_name": "Guaiacol"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.1249642768764688,
+            "component_name": "Hydrogen"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.005668002676938608,
+            "component_name": "Hydroxyacetone"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.001997684419815725,
+            "component_name": "Hydroxymethylfu"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.003579888178283776,
+            "component_name": "Isoeugenol"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.005179195518776067,
+            "component_name": "Levoglucosan"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.5129201855574697,
+            "component_name": "Nitrogen"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.000159733513538715,
+            "component_name": "Oxygen"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.1560738737490472,
+            "component_name": "Water"
+          }
+        ],
+        "temperature": {
+          "units": "K",
+          "value": 813.3223177239332
+        },
+        "total_mass_flow": {
+          "units": "kg/h",
+          "value": 82702.17391301903
+        },
+        "total_molar_flow": {
+          "units": "kmol/h",
+          "value": 3517.2
+        },
+        "total_volumetric_flow": {
+          "units": "m3/h",
+          "value": 192936.0274385458
+        }
+      },
+      "_kb_price_suggestion": {
+        "source": "knowledge_base",
+        "confidence": "high",
+        "matched_key": "s-126",
+        "price_range": {
+          "max": 62,
+          "min": 0.005
+        },
+        "median_usd_kg": 4.12334,
+        "n_observations": 6
+      }
+    },
+    {
+      "id": "S-11",
+      "price": {
+        "units": "USD/kg",
+        "value": 0
+      },
+      "stream_type": "internal",
+      "display_name": "S 105",
+      "sink_unit_id": "U-13",
+      "source_unit_id": "U-5",
+      "stream_properties": {
+        "pressure": {
+          "units": "Pa",
+          "value": 101300
+        },
+        "composition": [
+          {
+            "phase": "l",
+            "mol_fraction": 0.1306388594041071,
+            "component_name": "Carb. Dioxide"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.7093526500921964,
+            "component_name": "Nitrogen"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.0002209055095946306,
+            "component_name": "Oxygen"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.1597875849941019,
+            "component_name": "Water"
+          }
+        ],
+        "temperature": {
+          "units": "K",
+          "value": 1489.150088079298
+        },
+        "total_mass_flow": {
+          "units": "kg/h",
+          "value": 11433.00820761317
+        },
+        "total_molar_flow": {
+          "units": "kmol/h",
+          "value": 0.36
+        },
+        "total_volumetric_flow": {
+          "units": "m3/h",
+          "value": 49020.96121315887
+        }
+      },
+      "_kb_price_suggestion": {
+        "source": "knowledge_base",
+        "confidence": "high",
+        "matched_key": "s-105",
+        "price_range": {
+          "max": 248.35836,
+          "min": 0.001
+        },
+        "median_usd_kg": 18.95635,
+        "n_observations": 14
+      }
+    },
+    {
+      "id": "S-12",
+      "price": {
+        "units": "USD/kg",
+        "value": 0
+      },
+      "stream_type": "waste",
+      "display_name": "Exhaust Gas",
+      "sink_unit_id": "None",
+      "source_unit_id": "U-13",
+      "stream_properties": {
+        "pressure": {
+          "units": "Pa",
+          "value": 101300
+        },
+        "composition": [
+          {
+            "phase": "l",
+            "mol_fraction": 0.1306388594041071,
+            "component_name": "Carb. Dioxide"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.7093526500921964,
+            "component_name": "Nitrogen"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.0002209055095946306,
+            "component_name": "Oxygen"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.1597875849941019,
+            "component_name": "Water"
+          }
+        ],
+        "temperature": {
+          "units": "K",
+          "value": 432.1674591384104
+        },
+        "total_mass_flow": {
+          "units": "kg/h",
+          "value": 11433.00820761317
+        },
+        "total_molar_flow": {
+          "units": "kmol/h",
+          "value": 0.36
+        },
+        "total_volumetric_flow": {
+          "units": "m3/h",
+          "value": 14226.41305372929
+        }
+      },
+      "_kb_price_suggestion": {
+        "source": "knowledge_base",
+        "confidence": "high",
+        "matched_key": "carb. dioxide",
+        "price_range": {
+          "max": 4,
+          "min": 0.0375
+        },
+        "median_usd_kg": 4,
+        "n_observations": 16
+      }
+    },
+    {
+      "id": "S-13",
+      "price": {
+        "units": "USD/kg",
+        "value": 0
+      },
+      "stream_type": "internal",
+      "display_name": "S 125",
+      "sink_unit_id": "U-14",
+      "source_unit_id": "U-13",
+      "stream_properties": {
+        "pressure": {
+          "units": "Pa",
+          "value": 101325
+        },
+        "composition": [
+          {
+            "phase": "l",
+            "mol_fraction": 0.9999999999999999,
+            "mass_fraction": 1,
+            "component_name": "Water"
+          }
+        ],
+        "temperature": {
+          "units": "K",
+          "value": 353.1501564460205
+        },
+        "total_mass_flow": {
+          "units": "kg/h",
+          "value": 67000
+        },
+        "total_molar_flow": {
+          "units": "kmol/h",
+          "value": 3.6
+        },
+        "total_volumetric_flow": {
+          "units": "m3/h",
+          "value": 68.7421482120045
+        }
+      },
+      "_kb_price_suggestion": {
+        "source": "knowledge_base",
+        "confidence": "high",
+        "matched_key": "s-125",
+        "price_range": {
+          "max": 94.5,
+          "min": 0.003
+        },
+        "median_usd_kg": 0.05,
+        "n_observations": 8
+      }
+    },
+    {
+      "id": "S-14",
+      "price": {
+        "units": "USD/kg",
+        "value": 0
+      },
+      "stream_type": "internal",
+      "display_name": "S 130",
+      "sink_unit_id": "U-14",
+      "source_unit_id": "U-11",
+      "stream_properties": {
+        "pressure": {
+          "units": "Pa",
+          "value": 101325
+        },
+        "composition": [
+          {
+            "phase": "l",
+            "mol_fraction": 1,
+            "mass_fraction": 1,
+            "component_name": "Water"
+          }
+        ],
+        "temperature": {
+          "units": "K",
+          "value": 352.497684283497
+        },
+        "total_mass_flow": {
+          "units": "kg/h",
+          "value": 50000
+        },
+        "total_molar_flow": {
+          "units": "kmol/h",
+          "value": 2.88
+        },
+        "total_volumetric_flow": {
+          "units": "m3/h",
+          "value": 51.2875959141542
+        }
+      },
+      "_kb_price_suggestion": {
+        "source": "knowledge_base",
+        "confidence": "high",
+        "matched_key": "s-130",
+        "price_range": {
+          "max": 54.892,
+          "min": 0.05
+        },
+        "median_usd_kg": 0.0879,
+        "n_observations": 6
+      }
+    },
+    {
+      "id": "S-15",
+      "price": {
+        "units": "USD/kg",
+        "value": 0
+      },
+      "stream_type": "waste",
+      "display_name": "Hot Water",
+      "sink_unit_id": "None",
+      "source_unit_id": "U-14",
+      "stream_properties": {
+        "pressure": {
+          "units": "Pa",
+          "value": 101325
+        },
+        "composition": [
+          {
+            "phase": "l",
+            "mol_fraction": 1,
+            "mass_fraction": 1,
+            "component_name": "Water"
+          }
+        ],
+        "temperature": {
+          "units": "K",
+          "value": 353.1873081187632
+        },
+        "total_mass_flow": {
+          "units": "kg/h",
+          "value": 363499.9999999999
+        },
+        "total_molar_flow": {
+          "units": "kmol/h",
+          "value": 20.16
+        },
+        "total_volumetric_flow": {
+          "units": "m3/h",
+          "value": 372.9569859328947
+        }
+      }
+    },
+    {
+      "id": "S-16",
+      "price": {
+        "units": "USD/kg",
+        "value": 0
+      },
+      "stream_type": "internal",
+      "display_name": "Water",
+      "sink_unit_id": "U-15",
+      "source_unit_id": "None",
+      "stream_properties": {
+        "pressure": {
+          "units": "Pa",
+          "value": 101325
+        },
+        "composition": [
+          {
+            "phase": "l",
+            "mol_fraction": 1,
+            "mass_fraction": 1,
+            "component_name": "Water"
+          }
+        ],
+        "temperature": {
+          "units": "K",
+          "value": 298.15
+        },
+        "total_mass_flow": {
+          "units": "kg/h",
+          "value": 363499.9999999999
+        },
+        "total_molar_flow": {
+          "units": "kmol/h",
+          "value": 20.16
+        },
+        "total_volumetric_flow": {
+          "units": "m3/h",
+          "value": 365.4352261914613
+        }
+      },
+      "_kb_price_suggestion": {
+        "source": "knowledge_base",
+        "confidence": "high",
+        "matched_key": "water",
+        "price_range": {
+          "max": 1160227.97286,
+          "min": 0.0001102311359527999
+        },
+        "median_usd_kg": 0.02525,
+        "n_observations": 1290
+      }
+    },
+    {
+      "id": "S-17",
+      "price": {
+        "units": "USD/kg",
+        "value": 0
+      },
+      "stream_type": "internal",
+      "display_name": "S 119",
+      "sink_unit_id": "U-11",
+      "source_unit_id": "U-15",
+      "stream_properties": {
+        "pressure": {
+          "units": "Pa",
+          "value": 101325
+        },
+        "composition": [
+          {
+            "phase": "l",
+            "mol_fraction": 1,
+            "mass_fraction": 1,
+            "component_name": "Water"
+          }
+        ],
+        "temperature": {
+          "units": "K",
+          "value": 298.14999996754
+        },
+        "total_mass_flow": {
+          "units": "kg/h",
+          "value": 50000
+        },
+        "total_molar_flow": {
+          "units": "kmol/h",
+          "value": 2.88
+        },
+        "total_volumetric_flow": {
+          "units": "m3/h",
+          "value": 50.26619342326201
+        }
+      },
+      "_kb_price_suggestion": {
+        "source": "knowledge_base",
+        "confidence": "high",
+        "matched_key": "s-119",
+        "price_range": {
+          "max": 10.27,
+          "min": 0.005
+        },
+        "median_usd_kg": 0.06494,
+        "n_observations": 8
+      }
+    },
+    {
+      "id": "S-18",
+      "price": {
+        "units": "USD/kg",
+        "value": 0
+      },
+      "stream_type": "internal",
+      "display_name": "S 118",
+      "sink_unit_id": "U-13",
+      "source_unit_id": "U-15",
+      "stream_properties": {
+        "pressure": {
+          "units": "Pa",
+          "value": 101325
+        },
+        "composition": [
+          {
+            "phase": "l",
+            "mol_fraction": 0.9999999999999999,
+            "mass_fraction": 1,
+            "component_name": "Water"
+          }
+        ],
+        "temperature": {
+          "units": "K",
+          "value": 298.1499999675414
+        },
+        "total_mass_flow": {
+          "units": "kg/h",
+          "value": 67000
+        },
+        "total_molar_flow": {
+          "units": "kmol/h",
+          "value": 3.6
+        },
+        "total_volumetric_flow": {
+          "units": "m3/h",
+          "value": 67.3566991871711
+        }
+      },
+      "_kb_price_suggestion": {
+        "source": "knowledge_base",
+        "confidence": "medium",
+        "matched_key": "s-118",
+        "price_range": {
+          "max": 2000,
+          "min": 0.003
+        },
+        "median_usd_kg": 1.6993,
+        "n_observations": 4
+      }
+    },
+    {
+      "id": "S-19",
+      "price": {
+        "units": "USD/kg",
+        "value": 0
+      },
+      "stream_type": "product",
+      "display_name": "Bio Oil Aqueous",
+      "sink_unit_id": "None",
+      "source_unit_id": "U-4",
+      "stream_properties": {
+        "pressure": {
+          "units": "Pa",
+          "value": 101325
+        },
+        "composition": [
+          {
+            "phase": "l",
+            "mol_fraction": 0.005632679138492106,
+            "component_name": "1,2-Cyclopentan"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.001932082892699363,
+            "component_name": "2methox4vinylph"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.00838306288889185,
+            "component_name": "3met,2cyclopent"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.04966813907867541,
+            "component_name": "Acetic-Acid"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.0042002816691806,
+            "component_name": "Creosol"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.02069969891456325,
+            "component_name": "Ethyl Alcohol"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.01067483365606595,
+            "component_name": "FURFURAL"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.05813512665507866,
+            "component_name": "Glycolaldehyde"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.003529058571787536,
+            "component_name": "Guaiacol"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.03850183388809805,
+            "component_name": "Hydroxyacetone"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.0001207104699361341,
+            "component_name": "Hydroxymethylfu"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.001310979146127384,
+            "component_name": "Isoeugenol"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.00001658999688262406,
+            "component_name": "Levoglucosan"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.7971949230335212,
+            "component_name": "Water"
+          }
+        ],
+        "temperature": {
+          "units": "K",
+          "value": 318.0720217860672
+        },
+        "total_mass_flow": {
+          "units": "kg/h",
+          "value": 5877.882618821028
+        },
+        "total_molar_flow": {
+          "units": "kmol/h",
+          "value": 298.8
+        },
+        "total_volumetric_flow": {
+          "units": "m3/h",
+          "value": 5.755241251480161
+        }
+      }
+    },
+    {
+      "id": "S-20",
+      "price": {
+        "units": "USD/kg",
+        "value": 0
+      },
+      "stream_type": "internal",
+      "display_name": "Air In Burner",
+      "sink_unit_id": "U-17",
+      "source_unit_id": "None",
+      "stream_properties": {
+        "pressure": {
+          "units": "Pa",
+          "value": 101325
+        },
+        "composition": [
+          {
+            "phase": "l",
+            "mol_fraction": 0.7900352241464783,
+            "mass_fraction": 0.7671175504535516,
+            "component_name": "Nitrogen"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.2099647758535217,
+            "mass_fraction": 0.2328824495464484,
+            "component_name": "Oxygen"
+          }
+        ],
+        "temperature": {
+          "units": "K",
+          "value": 298.15
+        },
+        "total_mass_flow": {
+          "units": "kg/h",
+          "value": 30541.59280971283
+        },
+        "total_molar_flow": {
+          "units": "kmol/h",
+          "value": 1.08
+        },
+        "total_volumetric_flow": {
+          "units": "m3/h",
+          "value": 25899.82427257971
+        }
+      },
+      "_kb_price_suggestion": {
+        "source": "knowledge_base",
+        "confidence": "high",
+        "matched_key": "nitrogen",
+        "price_range": {
+          "max": 0.1,
+          "min": 0.00001
+        },
+        "median_usd_kg": 0.00356,
+        "n_observations": 18
+      }
+    },
+    {
+      "id": "S-21",
+      "price": {
+        "units": "USD/kg",
+        "value": 0
+      },
+      "stream_type": "internal",
+      "display_name": "S 116",
+      "sink_unit_id": "U-8",
+      "source_unit_id": "U-17",
+      "stream_properties": {
+        "pressure": {
+          "units": "Pa",
+          "value": 103325
+        },
+        "composition": [
+          {
+            "phase": "l",
+            "mol_fraction": 0.7900352241464783,
+            "mass_fraction": 0.7671175504535516,
+            "component_name": "Nitrogen"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.2099647758535217,
+            "mass_fraction": 0.2328824495464484,
+            "component_name": "Oxygen"
+          }
+        ],
+        "temperature": {
+          "units": "K",
+          "value": 299.7963318446627
+        },
+        "total_mass_flow": {
+          "units": "kg/h",
+          "value": 30541.59280971283
+        },
+        "total_molar_flow": {
+          "units": "kmol/h",
+          "value": 1.08
+        },
+        "total_volumetric_flow": {
+          "units": "m3/h",
+          "value": 25538.74295303909
+        }
+      },
+      "_kb_price_suggestion": {
+        "source": "knowledge_base",
+        "confidence": "medium",
+        "matched_key": "s-116",
+        "price_range": {
+          "max": 0.036,
+          "min": 0.003
+        },
+        "median_usd_kg": 0.0075,
+        "n_observations": 4
+      }
+    },
+    {
+      "id": "S-22",
+      "price": {
+        "units": "USD/kg",
+        "value": 0.05500000000000001
+      },
+      "stream_type": "feedstock",
+      "display_name": "Woody Biomass",
+      "sink_unit_id": "U-1",
+      "source_unit_id": "None",
+      "stream_properties": {
+        "pressure": {
+          "units": "Pa",
+          "value": 101325
+        },
+        "composition": [
+          {
+            "phase": "l",
+            "mol_fraction": 0.8706145977995374,
+            "component_name": "Water"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.1293854022004627,
+            "component_name": "Wood Biomass"
+          }
+        ],
+        "temperature": {
+          "units": "K",
+          "value": 293.15
+        },
+        "total_mass_flow": {
+          "units": "kg/h",
+          "value": 29999.99999999113
+        },
+        "total_molar_flow": {
+          "units": "kmol/h",
+          "value": 1666.8
+        },
+        "total_volumetric_flow": {
+          "units": "m3/h",
+          "value": 27.56215181720388
+        }
+      }
+    },
+    {
+      "id": "S-23",
+      "price": {
+        "units": "USD/kg",
+        "value": 0
+      },
+      "stream_type": "internal",
+      "display_name": "S 104",
+      "sink_unit_id": "U-18",
+      "source_unit_id": "U-11",
+      "stream_properties": {
+        "pressure": {
+          "units": "Pa",
+          "value": 101800
+        },
+        "composition": [
+          {
+            "phase": "l",
+            "mol_fraction": 0.0006071916710524711,
+            "component_name": "1,2-Cyclopentan"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.0002084631293974141,
+            "component_name": "2methox4vinylph"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.0009546193173865186,
+            "component_name": "3met,2cyclopent"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.007910462362442028,
+            "component_name": "Acetic-Acid"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.1012216703600611,
+            "component_name": "Carb. Dioxide"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.05866905640148484,
+            "component_name": "Carbon Monoxide"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.0004531916639894539,
+            "component_name": "Creosol"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.006421031772714992,
+            "component_name": "Ethyl Alcohol"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.001222000259075865,
+            "component_name": "FURFURAL"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.007289212799579291,
+            "component_name": "Glycolaldehyde"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.0003810385889344074,
+            "component_name": "Guaiacol"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.1287061614822674,
+            "component_name": "Hydrogen"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.00470784048776677,
+            "component_name": "Hydroxyacetone"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.00001295947254178782,
+            "component_name": "Hydroxymethylfu"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.0001408344704431143,
+            "component_name": "Isoeugenol"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.000001781101582840856,
+            "component_name": "Levoglucosan"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.5282788800125111,
+            "component_name": "Nitrogen"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.0001645165154515857,
+            "component_name": "Oxygen"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.1526490881313171,
+            "component_name": "Water"
+          }
+        ],
+        "temperature": {
+          "units": "K",
+          "value": 318.1500001415784
+        },
+        "total_mass_flow": {
+          "units": "kg/h",
+          "value": 49446.48862411751
+        },
+        "total_molar_flow": {
+          "units": "kmol/h",
+          "value": 2181.6
+        },
+        "total_volumetric_flow": {
+          "units": "m3/h",
+          "value": 44252.13442171903
+        }
+      },
+      "_kb_price_suggestion": {
+        "source": "knowledge_base",
+        "confidence": "high",
+        "matched_key": "s-104",
+        "price_range": {
+          "max": 165,
+          "min": 0.001
+        },
+        "median_usd_kg": 0.15798,
+        "n_observations": 18
+      }
+    },
+    {
+      "id": "S-24",
+      "price": {
+        "units": "USD/kg",
+        "value": 0
+      },
+      "stream_type": "internal",
+      "display_name": "S 112",
+      "sink_unit_id": "U-4",
+      "source_unit_id": "U-18",
+      "stream_properties": {
+        "pressure": {
+          "units": "Pa",
+          "value": 101300
+        },
+        "composition": [
+          {
+            "phase": "l",
+            "mol_fraction": 0.005632679138492106,
+            "component_name": "1,2-Cyclopentan"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.001932082892699363,
+            "component_name": "2methox4vinylph"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.00838306288889185,
+            "component_name": "3met,2cyclopent"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.04966813907867541,
+            "component_name": "Acetic-Acid"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.0042002816691806,
+            "component_name": "Creosol"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.02069969891456325,
+            "component_name": "Ethyl Alcohol"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.01067483365606595,
+            "component_name": "FURFURAL"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.05813512665507866,
+            "component_name": "Glycolaldehyde"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.003529058571787536,
+            "component_name": "Guaiacol"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.03850183388809805,
+            "component_name": "Hydroxyacetone"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.0001207104699361341,
+            "component_name": "Hydroxymethylfu"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.001310979146127384,
+            "component_name": "Isoeugenol"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.00001658999688262406,
+            "component_name": "Levoglucosan"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.7971949230335212,
+            "component_name": "Water"
+          }
+        ],
+        "temperature": {
+          "units": "K",
+          "value": 318.0720217860672
+        },
+        "total_mass_flow": {
+          "units": "kg/h",
+          "value": 5877.882618821028
+        },
+        "total_molar_flow": {
+          "units": "kmol/h",
+          "value": 298.8
+        },
+        "total_volumetric_flow": {
+          "units": "m3/h",
+          "value": 5.755241251480161
+        }
+      },
+      "_kb_price_suggestion": {
+        "source": "knowledge_base",
+        "confidence": "high",
+        "matched_key": "s-112",
+        "price_range": {
+          "max": 10,
+          "min": 0.001
+        },
+        "median_usd_kg": 0.84,
+        "n_observations": 7
+      }
+    },
+    {
+      "id": "S-25",
+      "price": {
+        "units": "USD/kg",
+        "value": 0
+      },
+      "stream_type": "internal",
+      "display_name": "S 101",
+      "sink_unit_id": "U-10",
+      "source_unit_id": "U-3",
+      "stream_properties": {
+        "pressure": {
+          "units": "Pa",
+          "value": 101300
+        },
+        "composition": [
+          {
+            "phase": "l",
+            "mol_fraction": 0.002432017659789878,
+            "component_name": "1,2-Cyclopentan"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.001059120746155301,
+            "component_name": "2methox4vinylph"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.001418517910739196,
+            "component_name": "3met,2cyclopent"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.00794576006004852,
+            "component_name": "Acetic-Acid"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.09307301600564467,
+            "component_name": "Carb. Dioxide"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.05394601837936321,
+            "component_name": "Carbon Monoxide"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.05296996962629742,
+            "component_name": "Char"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.002302483733285533,
+            "component_name": "Creosol"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.006041964412444117,
+            "component_name": "Ethyl Alcohol"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.001655346030849321,
+            "component_name": "FURFURAL"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.00794576006004852,
+            "component_name": "Glycolaldehyde"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.001601613301185027,
+            "component_name": "Guaiacol"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.1183449228388129,
+            "component_name": "Hydrogen"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.005367768743347123,
+            "component_name": "Hydroxyacetone"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.001891867135382181,
+            "component_name": "Hydroxymethylfu"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.003390261607718302,
+            "component_name": "Isoeugenol"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.004904853685846412,
+            "component_name": "Levoglucosan"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.485750820506005,
+            "component_name": "Nitrogen"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.0001512721697113475,
+            "component_name": "Oxygen"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.147806645387326,
+            "component_name": "Water"
+          }
+        ],
+        "temperature": {
+          "units": "K",
+          "value": 809.3046272921225
+        },
+        "total_mass_flow": {
+          "units": "kg/h",
+          "value": 141136.9565216975
+        },
+        "total_molar_flow": {
+          "units": "kmol/h",
+          "value": 6001.2
+        },
+        "total_volumetric_flow": {
+          "units": "m3/h",
+          "value": 326290.3617249533
+        }
+      },
+      "_kb_price_suggestion": {
+        "source": "knowledge_base",
+        "confidence": "high",
+        "matched_key": "s-101",
+        "price_range": {
+          "max": 69.43097,
+          "min": 0.00095
+        },
+        "median_usd_kg": 0.15,
+        "n_observations": 30
+      }
+    },
+    {
+      "id": "S-26",
+      "price": {
+        "units": "USD/kg",
+        "value": 0
+      },
+      "stream_type": "internal",
+      "display_name": "S 107",
+      "sink_unit_id": "U-16",
+      "source_unit_id": "U-10",
+      "stream_properties": {
+        "pressure": {
+          "units": "Pa",
+          "value": 101300
+        },
+        "composition": [
+          {
+            "phase": "l",
+            "mol_fraction": 0.002568047033133884,
+            "component_name": "1,2-Cyclopentan"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.001118360254887975,
+            "component_name": "2methox4vinylph"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.001497859482005489,
+            "component_name": "3met,2cyclopent"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.008390188067122946,
+            "component_name": "Acetic-Acid"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.09827884335295853,
+            "component_name": "Carb. Dioxide"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.05696336615437195,
+            "component_name": "Carbon Monoxide"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.00243126792122628,
+            "component_name": "Creosol"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.006379907942370031,
+            "component_name": "Ethyl Alcohol"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.001747934044072619,
+            "component_name": "FURFURAL"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.008390188067122946,
+            "component_name": "Glycolaldehyde"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.00169119589645222,
+            "component_name": "Guaiacol"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.1249642767844579,
+            "component_name": "Hydrogen"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.005668002672765272,
+            "component_name": "Hydroxyacetone"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.001997684418344835,
+            "component_name": "Hydroxymethylfu"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.003579888175647913,
+            "component_name": "Isoeugenol"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.005179195514962639,
+            "component_name": "Levoglucosan"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.5129201872450924,
+            "component_name": "Nitrogen"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.0001597332342794397,
+            "component_name": "Oxygen"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.1560738737387249,
+            "component_name": "Water"
+          }
+        ],
+        "temperature": {
+          "units": "K",
+          "value": 810.3750746801503
+        },
+        "total_mass_flow": {
+          "units": "kg/h",
+          "value": 137836.9565216984
+        },
+        "total_molar_flow": {
+          "units": "kmol/h",
+          "value": 5860.799999999999
+        },
+        "total_volumetric_flow": {
+          "units": "m3/h",
+          "value": 326720.4685858616
+        }
+      },
+      "_kb_price_suggestion": {
+        "source": "knowledge_base",
+        "confidence": "high",
+        "matched_key": "s-107",
+        "price_range": {
+          "max": 76.6,
+          "min": 0.008
+        },
+        "median_usd_kg": 0.1,
+        "n_observations": 10
+      }
+    },
+    {
+      "id": "S-27",
+      "price": {
+        "units": "USD/kg",
+        "value": 0
+      },
+      "stream_type": "internal",
+      "display_name": "S 117",
+      "sink_unit_id": "U-12",
+      "source_unit_id": "U-16",
+      "stream_properties": {
+        "pressure": {
+          "units": "Pa",
+          "value": 103300
+        },
+        "composition": [
+          {
+            "phase": "l",
+            "mol_fraction": 0.002568047033133884,
+            "component_name": "1,2-Cyclopentan"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.001118360254887975,
+            "component_name": "2methox4vinylph"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.001497859482005489,
+            "component_name": "3met,2cyclopent"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.008390188067122946,
+            "component_name": "Acetic-Acid"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.09827884335295853,
+            "component_name": "Carb. Dioxide"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.05696336615437195,
+            "component_name": "Carbon Monoxide"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.00243126792122628,
+            "component_name": "Creosol"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.006379907942370031,
+            "component_name": "Ethyl Alcohol"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.001747934044072619,
+            "component_name": "FURFURAL"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.008390188067122946,
+            "component_name": "Glycolaldehyde"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.00169119589645222,
+            "component_name": "Guaiacol"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.1249642767844579,
+            "component_name": "Hydrogen"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.005668002672765272,
+            "component_name": "Hydroxyacetone"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.001997684418344835,
+            "component_name": "Hydroxymethylfu"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.003579888175647913,
+            "component_name": "Isoeugenol"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.005179195514962639,
+            "component_name": "Levoglucosan"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.5129201872450924,
+            "component_name": "Nitrogen"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.0001597332342794397,
+            "component_name": "Oxygen"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.1560738737387249,
+            "component_name": "Water"
+          }
+        ],
+        "temperature": {
+          "units": "K",
+          "value": 813.4499863097931
+        },
+        "total_mass_flow": {
+          "units": "kg/h",
+          "value": 137836.9565216984
+        },
+        "total_molar_flow": {
+          "units": "kmol/h",
+          "value": 5860.799999999999
+        },
+        "total_volumetric_flow": {
+          "units": "m3/h",
+          "value": 321610.5217943453
+        }
+      },
+      "_kb_price_suggestion": {
+        "source": "knowledge_base",
+        "confidence": "high",
+        "matched_key": "s-117",
+        "price_range": {
+          "max": 60.6225,
+          "min": 0.02989
+        },
+        "median_usd_kg": 2,
+        "n_observations": 9
+      }
+    },
+    {
+      "id": "S-28",
+      "price": {
+        "units": "USD/kg",
+        "value": 0
+      },
+      "stream_type": "internal",
+      "display_name": "S 114",
+      "sink_unit_id": "U-20",
+      "source_unit_id": "U-19",
+      "stream_properties": {
+        "pressure": {
+          "units": "Pa",
+          "value": 102300
+        },
+        "composition": [
+          {
+            "phase": "l",
+            "mol_fraction": 0.00256804703502473,
+            "component_name": "1,2-Cyclopentan"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.001118360255711421,
+            "component_name": "2methox4vinylph"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.001497859483108359,
+            "component_name": "3met,2cyclopent"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.00839018807330062,
+            "component_name": "Acetic-Acid"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.0982788445797606,
+            "component_name": "Carb. Dioxide"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.05696336619631394,
+            "component_name": "Carbon Monoxide"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.002431267923016417,
+            "component_name": "Creosol"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.006379907947067541,
+            "component_name": "Ethyl Alcohol"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.001747934045359619,
+            "component_name": "FURFURAL"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.00839018807330062,
+            "component_name": "Glycolaldehyde"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.001691195897697444,
+            "component_name": "Guaiacol"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.1249642768764688,
+            "component_name": "Hydrogen"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.005668002676938609,
+            "component_name": "Hydroxyacetone"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.001997684419815725,
+            "component_name": "Hydroxymethylfu"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.003579888178283776,
+            "component_name": "Isoeugenol"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.005179195518776068,
+            "component_name": "Levoglucosan"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.5129201855574697,
+            "component_name": "Nitrogen"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.000159733513538715,
+            "component_name": "Oxygen"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.1560738737490473,
+            "component_name": "Water"
+          }
+        ],
+        "temperature": {
+          "units": "K",
+          "value": 358.1539385114839
+        },
+        "total_mass_flow": {
+          "units": "kg/h",
+          "value": 55134.78260867935
+        },
+        "total_molar_flow": {
+          "units": "kmol/h",
+          "value": 2343.6
+        },
+        "total_volumetric_flow": {
+          "units": "m3/h",
+          "value": 55536.48502930015
+        }
+      },
+      "_kb_price_suggestion": {
+        "source": "knowledge_base",
+        "confidence": "high",
+        "matched_key": "s-114",
+        "price_range": {
+          "max": 232.51004,
+          "min": 0.008
+        },
+        "median_usd_kg": 0.72861,
+        "n_observations": 8
+      }
+    },
+    {
+      "id": "S-29",
+      "price": {
+        "units": "USD/kg",
+        "value": 0
+      },
+      "stream_type": "internal",
+      "display_name": "S 123",
+      "sink_unit_id": "U-19",
+      "source_unit_id": "U-15",
+      "stream_properties": {
+        "pressure": {
+          "units": "Pa",
+          "value": 101325
+        },
+        "composition": [
+          {
+            "phase": "l",
+            "mol_fraction": 0.9999999999999999,
+            "mass_fraction": 1,
+            "component_name": "Water"
+          }
+        ],
+        "temperature": {
+          "units": "K",
+          "value": 298.1499999675414
+        },
+        "total_mass_flow": {
+          "units": "kg/h",
+          "value": 171500
+        },
+        "total_molar_flow": {
+          "units": "kmol/h",
+          "value": 9.36
+        },
+        "total_volumetric_flow": {
+          "units": "m3/h",
+          "value": 172.4130434417887
+        }
+      },
+      "_kb_price_suggestion": {
+        "source": "knowledge_base",
+        "confidence": "high",
+        "matched_key": "s-123",
+        "price_range": {
+          "max": 24.74681,
+          "min": 0.02
+        },
+        "median_usd_kg": 1,
+        "n_observations": 11
+      }
+    },
+    {
+      "id": "S-30",
+      "price": {
+        "units": "USD/kg",
+        "value": 0
+      },
+      "stream_type": "internal",
+      "display_name": "S 127",
+      "sink_unit_id": "U-14",
+      "source_unit_id": "U-19",
+      "stream_properties": {
+        "pressure": {
+          "units": "Pa",
+          "value": 101325
+        },
+        "composition": [
+          {
+            "phase": "l",
+            "mol_fraction": 0.9999999999999999,
+            "mass_fraction": 1,
+            "component_name": "Water"
+          }
+        ],
+        "temperature": {
+          "units": "K",
+          "value": 353.4192064279266
+        },
+        "total_mass_flow": {
+          "units": "kg/h",
+          "value": 171500
+        },
+        "total_molar_flow": {
+          "units": "kmol/h",
+          "value": 9.36
+        },
+        "total_volumetric_flow": {
+          "units": "m3/h",
+          "value": 175.9770859679846
+        }
+      },
+      "_kb_price_suggestion": {
+        "source": "knowledge_base",
+        "confidence": "high",
+        "matched_key": "s-127",
+        "price_range": {
+          "max": 1342,
+          "min": 0.002
+        },
+        "median_usd_kg": 0.73636,
+        "n_observations": 8
+      }
+    },
+    {
+      "id": "S-31",
+      "price": {
+        "units": "USD/kg",
+        "value": 0
+      },
+      "stream_type": "internal",
+      "display_name": "S 110",
+      "sink_unit_id": "U-8",
+      "source_unit_id": "U-18",
+      "stream_properties": {
+        "pressure": {
+          "units": "Pa",
+          "value": 101300
+        },
+        "composition": [
+          {
+            "phase": "l",
+            "mol_fraction": 0.000002820462160014034,
+            "component_name": "1,2-Cyclopentan"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.000001178529293047731,
+            "component_name": "2methox4vinylph"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.00006126569734706993,
+            "component_name": "3met,2cyclopent"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.002888633590398926,
+            "component_name": "Acetic-Acid"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.1133947110208891,
+            "component_name": "Carb. Dioxide"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.06572466817480603,
+            "component_name": "Carbon Monoxide"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.000002562082095382962,
+            "component_name": "Creosol"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.004703861970222495,
+            "component_name": "Ethyl Alcohol"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.00008519106700985969,
+            "component_name": "FURFURAL"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.001174421622964142,
+            "component_name": "Glycolaldehyde"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.000002453893423491657,
+            "component_name": "Guaiacol"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.1441845203302253,
+            "component_name": "Hydrogen"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.0006437339156201417,
+            "component_name": "Hydroxyacetone"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 1.207104551142412e-9,
+            "component_name": "Hydroxymethylfu"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 1.114546552196695e-7,
+            "component_name": "Isoeugenol"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 1.658999484555837e-10,
+            "component_name": "Levoglucosan"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.5918103378888111,
+            "component_name": "Nitrogen"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.0001843014708356066,
+            "component_name": "Oxygen"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.0751352254562387,
+            "component_name": "Water"
+          }
+        ],
+        "temperature": {
+          "units": "K",
+          "value": 318.0720217860672
+        },
+        "total_mass_flow": {
+          "units": "kg/h",
+          "value": 43568.60600529647
+        },
+        "total_molar_flow": {
+          "units": "kmol/h",
+          "value": 1893.6
+        },
+        "total_volumetric_flow": {
+          "units": "m3/h",
+          "value": 44457.28865063899
+        }
+      },
+      "_kb_price_suggestion": {
+        "source": "knowledge_base",
+        "confidence": "high",
+        "matched_key": "s-110",
+        "price_range": {
+          "max": 100,
+          "min": 0.001
+        },
+        "median_usd_kg": 0.47861,
+        "n_observations": 12
+      }
+    },
+    {
+      "id": "S-32",
+      "price": {
+        "units": "USD/kg",
+        "value": 0
+      },
+      "stream_type": "internal",
+      "display_name": "S 121",
+      "sink_unit_id": "U-11",
+      "source_unit_id": "U-20",
+      "stream_properties": {
+        "pressure": {
+          "units": "Pa",
+          "value": 102300
+        },
+        "composition": [
+          {
+            "phase": "l",
+            "mol_fraction": 0.0006071916710524711,
+            "component_name": "1,2-Cyclopentan"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.0002084631293974141,
+            "component_name": "2methox4vinylph"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.0009546193173865186,
+            "component_name": "3met,2cyclopent"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.007910462362442028,
+            "component_name": "Acetic-Acid"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.1012216703600611,
+            "component_name": "Carb. Dioxide"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.05866905640148484,
+            "component_name": "Carbon Monoxide"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.0004531916639894539,
+            "component_name": "Creosol"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.006421031772714992,
+            "component_name": "Ethyl Alcohol"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.001222000259075865,
+            "component_name": "FURFURAL"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.007289212799579291,
+            "component_name": "Glycolaldehyde"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.0003810385889344074,
+            "component_name": "Guaiacol"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.1287061614822674,
+            "component_name": "Hydrogen"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.00470784048776677,
+            "component_name": "Hydroxyacetone"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.00001295947254178782,
+            "component_name": "Hydroxymethylfu"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.0001408344704431143,
+            "component_name": "Isoeugenol"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.000001781101582840856,
+            "component_name": "Levoglucosan"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.5282788800125111,
+            "component_name": "Nitrogen"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.0001645165154515857,
+            "component_name": "Oxygen"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.1526490881313171,
+            "component_name": "Water"
+          }
+        ],
+        "temperature": {
+          "units": "K",
+          "value": 358.1539385114839
+        },
+        "total_mass_flow": {
+          "units": "kg/h",
+          "value": 49446.48862411751
+        },
+        "total_molar_flow": {
+          "units": "kmol/h",
+          "value": 2181.6
+        },
+        "total_volumetric_flow": {
+          "units": "m3/h",
+          "value": 55531.62022467622
+        }
+      },
+      "_kb_price_suggestion": {
+        "source": "knowledge_base",
+        "confidence": "high",
+        "matched_key": "s-121",
+        "price_range": {
+          "max": 1728.96567,
+          "min": 0.003
+        },
+        "median_usd_kg": 0.7505,
+        "n_observations": 7
+      }
+    },
+    {
+      "id": "S-33",
+      "price": {
+        "units": "USD/kg",
+        "value": 0
+      },
+      "stream_type": "internal",
+      "display_name": "S 120",
+      "sink_unit_id": "U-19",
+      "source_unit_id": "U-12",
+      "stream_properties": {
+        "pressure": {
+          "units": "Pa",
+          "value": 103300
+        },
+        "composition": [
+          {
+            "phase": "l",
+            "mol_fraction": 0.00256804703502473,
+            "component_name": "1,2-Cyclopentan"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.001118360255711421,
+            "component_name": "2methox4vinylph"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.001497859483108359,
+            "component_name": "3met,2cyclopent"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.00839018807330062,
+            "component_name": "Acetic-Acid"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.0982788445797606,
+            "component_name": "Carb. Dioxide"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.05696336619631394,
+            "component_name": "Carbon Monoxide"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.002431267923016417,
+            "component_name": "Creosol"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.006379907947067541,
+            "component_name": "Ethyl Alcohol"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.001747934045359619,
+            "component_name": "FURFURAL"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.00839018807330062,
+            "component_name": "Glycolaldehyde"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.001691195897697444,
+            "component_name": "Guaiacol"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.1249642768764688,
+            "component_name": "Hydrogen"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.005668002676938609,
+            "component_name": "Hydroxyacetone"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.001997684419815725,
+            "component_name": "Hydroxymethylfu"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.003579888178283776,
+            "component_name": "Isoeugenol"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.005179195518776068,
+            "component_name": "Levoglucosan"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.5129201855574697,
+            "component_name": "Nitrogen"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.000159733513538715,
+            "component_name": "Oxygen"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.1560738737490473,
+            "component_name": "Water"
+          }
+        ],
+        "temperature": {
+          "units": "K",
+          "value": 813.3223177239333
+        },
+        "total_mass_flow": {
+          "units": "kg/h",
+          "value": 55134.78260867935
+        },
+        "total_molar_flow": {
+          "units": "kmol/h",
+          "value": 2343.6
+        },
+        "total_volumetric_flow": {
+          "units": "m3/h",
+          "value": 128624.0182923639
+        }
+      },
+      "_kb_price_suggestion": {
+        "source": "knowledge_base",
+        "confidence": "high",
+        "matched_key": "s-120",
+        "price_range": {
+          "max": 1247.38164,
+          "min": 0.02
+        },
+        "median_usd_kg": 2,
+        "n_observations": 11
+      }
+    },
+    {
+      "id": "S-34",
+      "price": {
+        "units": "USD/kg",
+        "value": 0
+      },
+      "stream_type": "internal",
+      "display_name": "S 122",
+      "sink_unit_id": "U-21",
+      "source_unit_id": "U-7",
+      "stream_properties": {
+        "pressure": {
+          "units": "Pa",
+          "value": 101325
+        },
+        "composition": [
+          {
+            "phase": "l",
+            "mol_fraction": 0.07020339602269561,
+            "component_name": "Carb. Dioxide"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.381195650676398,
+            "component_name": "Nitrogen"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.0001187113623343505,
+            "component_name": "Oxygen"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.548482241938572,
+            "component_name": "Water"
+          }
+        ],
+        "temperature": {
+          "units": "K",
+          "value": 378.1499993808679
+        },
+        "total_mass_flow": {
+          "units": "kg/h",
+          "value": 34242.36988757188
+        },
+        "total_molar_flow": {
+          "units": "kmol/h",
+          "value": 1.44
+        },
+        "total_volumetric_flow": {
+          "units": "m3/h",
+          "value": 44922.07560820554
+        }
+      },
+      "_kb_price_suggestion": {
+        "source": "knowledge_base",
+        "confidence": "high",
+        "matched_key": "s-122",
+        "price_range": {
+          "max": 0.1828,
+          "min": 0.003
+        },
+        "median_usd_kg": 0.02,
+        "n_observations": 14
+      }
+    },
+    {
+      "id": "S-35",
+      "price": {
+        "units": "USD/kg",
+        "value": 0
+      },
+      "stream_type": "waste",
+      "display_name": "Dryer Exhaust",
+      "sink_unit_id": "None",
+      "source_unit_id": "U-21",
+      "stream_properties": {
+        "pressure": {
+          "units": "Pa",
+          "value": 101325
+        },
+        "composition": [
+          {
+            "phase": "l",
+            "mol_fraction": 0.07020339602269561,
+            "component_name": "Carb. Dioxide"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.381195650676398,
+            "component_name": "Nitrogen"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.0001187113623343505,
+            "component_name": "Oxygen"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.548482241938572,
+            "component_name": "Water"
+          }
+        ],
+        "temperature": {
+          "units": "K",
+          "value": 348.6965569975205
+        },
+        "total_mass_flow": {
+          "units": "kg/h",
+          "value": 34242.36988757188
+        },
+        "total_molar_flow": {
+          "units": "kmol/h",
+          "value": 1.44
+        },
+        "total_volumetric_flow": {
+          "units": "m3/h",
+          "value": 30610.77108608506
+        }
+      },
+      "_kb_price_suggestion": {
+        "source": "knowledge_base",
+        "confidence": "high",
+        "matched_key": "carb. dioxide",
+        "price_range": {
+          "max": 4,
+          "min": 0.0375
+        },
+        "median_usd_kg": 4,
+        "n_observations": 16
+      }
+    },
+    {
+      "id": "S-36",
+      "price": {
+        "units": "USD/kg",
+        "value": 0
+      },
+      "stream_type": "internal",
+      "display_name": "S 128",
+      "sink_unit_id": "U-21",
+      "source_unit_id": "U-15",
+      "stream_properties": {
+        "pressure": {
+          "units": "Pa",
+          "value": 101325
+        },
+        "composition": [
+          {
+            "phase": "l",
+            "mol_fraction": 1,
+            "mass_fraction": 1,
+            "component_name": "Water"
+          }
+        ],
+        "temperature": {
+          "units": "K",
+          "value": 298.14999996754
+        },
+        "total_mass_flow": {
+          "units": "kg/h",
+          "value": 74999.99999999999
+        },
+        "total_molar_flow": {
+          "units": "kmol/h",
+          "value": 4.319999999999999
+        },
+        "total_volumetric_flow": {
+          "units": "m3/h",
+          "value": 75.399290134893
+        }
+      },
+      "_kb_price_suggestion": {
+        "source": "knowledge_base",
+        "confidence": "high",
+        "matched_key": "s-128",
+        "price_range": {
+          "max": 1.51012,
+          "min": 0.003
+        },
+        "median_usd_kg": 0.05,
+        "n_observations": 9
+      }
+    },
+    {
+      "id": "S-37",
+      "price": {
+        "units": "USD/kg",
+        "value": 0
+      },
+      "stream_type": "internal",
+      "display_name": "S 129",
+      "sink_unit_id": "U-14",
+      "source_unit_id": "U-21",
+      "stream_properties": {
+        "pressure": {
+          "units": "Pa",
+          "value": 101325
+        },
+        "composition": [
+          {
+            "phase": "l",
+            "mol_fraction": 1,
+            "mass_fraction": 1,
+            "component_name": "Water"
+          }
+        ],
+        "temperature": {
+          "units": "K",
+          "value": 353.1501564541147
+        },
+        "total_mass_flow": {
+          "units": "kg/h",
+          "value": 74999.99999999999
+        },
+        "total_molar_flow": {
+          "units": "kmol/h",
+          "value": 4.319999999999999
+        },
+        "total_volumetric_flow": {
+          "units": "m3/h",
+          "value": 76.9501659091932
+        }
+      },
+      "_kb_price_suggestion": {
+        "source": "knowledge_base",
+        "confidence": "high",
+        "matched_key": "s-129",
+        "price_range": {
+          "max": 9895.41394,
+          "min": 0.05
+        },
+        "median_usd_kg": 0.35,
+        "n_observations": 12
+      }
+    },
+    {
+      "id": "S-38",
+      "price": {
+        "units": "USD/kg",
+        "value": 0
+      },
+      "stream_type": "internal",
+      "display_name": "S 131",
+      "sink_unit_id": "U-22",
+      "source_unit_id": "U-20",
+      "stream_properties": {
+        "pressure": {
+          "units": "Pa",
+          "value": 102300
+        },
+        "composition": [
+          {
+            "phase": "l",
+            "mol_fraction": 0.06805292923540471,
+            "component_name": "1,2-Cyclopentan"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.03150535729073596,
+            "component_name": "2methox4vinylph"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.0196399514050462,
+            "component_name": "3met,2cyclopent"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.0244111461925314,
+            "component_name": "Acetic-Acid"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.06849126050877323,
+            "component_name": "Creosol"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.005006533384296736,
+            "component_name": "Ethyl Alcohol"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.01931206073863196,
+            "component_name": "FURFURAL"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.04515844616609508,
+            "component_name": "Glycolaldehyde"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.04544531392428742,
+            "component_name": "Guaiacol"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.03773365576203091,
+            "component_name": "Hydroxyacetone"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.0682797171287962,
+            "component_name": "Hydroxymethylfu"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.1184308002223562,
+            "component_name": "Isoeugenol"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.1780845405237348,
+            "component_name": "Levoglucosan"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.2704482875172791,
+            "component_name": "Water"
+          }
+        ],
+        "temperature": {
+          "units": "K",
+          "value": 358.1539385114839
+        },
+        "total_mass_flow": {
+          "units": "kg/h",
+          "value": 5688.29398456184
+        },
+        "total_molar_flow": {
+          "units": "kmol/h",
+          "value": 75.60000000000001
+        },
+        "total_volumetric_flow": {
+          "units": "m3/h",
+          "value": 4.864804623930437
+        }
+      },
+      "_kb_price_suggestion": {
+        "source": "knowledge_base",
+        "confidence": "high",
+        "matched_key": "s-131",
+        "price_range": {
+          "max": 1.37709,
+          "min": 0.002
+        },
+        "median_usd_kg": 0.1,
+        "n_observations": 11
+      }
+    },
+    {
+      "id": "S-39",
+      "price": {
+        "units": "USD/kg",
+        "value": 0
+      },
+      "stream_type": "product",
+      "display_name": "Bio Oil",
+      "sink_unit_id": "None",
+      "source_unit_id": "U-22",
+      "stream_properties": {
+        "pressure": {
+          "units": "Pa",
+          "value": 101325
+        },
+        "composition": [
+          {
+            "phase": "l",
+            "mol_fraction": 0.06805292923540471,
+            "component_name": "1,2-Cyclopentan"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.03150535729073596,
+            "component_name": "2methox4vinylph"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.0196399514050462,
+            "component_name": "3met,2cyclopent"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.0244111461925314,
+            "component_name": "Acetic-Acid"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.06849126050877323,
+            "component_name": "Creosol"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.005006533384296736,
+            "component_name": "Ethyl Alcohol"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.01931206073863196,
+            "component_name": "FURFURAL"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.04515844616609508,
+            "component_name": "Glycolaldehyde"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.04544531392428742,
+            "component_name": "Guaiacol"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.03773365576203091,
+            "component_name": "Hydroxyacetone"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.0682797171287962,
+            "component_name": "Hydroxymethylfu"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.1184308002223562,
+            "component_name": "Isoeugenol"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.1780845405237348,
+            "component_name": "Levoglucosan"
+          },
+          {
+            "phase": "l",
+            "mol_fraction": 0.2704482875172791,
+            "component_name": "Water"
+          }
+        ],
+        "temperature": {
+          "units": "K",
+          "value": 357.330429377588
+        },
+        "total_mass_flow": {
+          "units": "kg/h",
+          "value": 5688.29398456184
+        },
+        "total_molar_flow": {
+          "units": "kmol/h",
+          "value": 75.60000000000001
+        },
+        "total_volumetric_flow": {
+          "units": "m3/h",
+          "value": 13.23231044782804
+        }
+      }
+    }
+  ],
+  "metadata": {
+    "DFC_usd": 52291799.5,
+    "NPV_usd": 1190868.243536766,
+    "ROI_pct": 8.98405007412045,
+    "TEA_year": 2021,
+    "organism": "N/A",
+    "feedstock": "Woody Biomass",
+    "source_doi": null,
+    "productJson": [
+      {
+        "name": "Bio-oil",
+        "label": "Bio Oil"
+      },
+      {
+        "name": "Bio Char"
+      }
+    ],
+    "sff_version": "0.0.2",
+    "TEA_currency": "USD",
+    "batch_time_s": 86400,
+    "product_name": "Bio Oil",
+    "feedstockJson": [
+      {
+        "name": "Woody-Biomass",
+        "label": "Woody Biomass"
+      }
+    ],
+    "is_batch_mode": false,
+    "process_title": "Wood Pyrolysis to Bio Oil & Biochar",
+    "net_profit_usd": 5079996.250958431,
+    "gross_margin_pct": 0.4568352394917345,
+    "gross_profit_usd": 140344.1230730377,
+    "annual_revenue_usd": 30720949.46729191,
+    "IRR_after_taxes_pct": 3.357930236816406,
+    "batch_throughput_kg": 5688.293984561843,
+    "flowsheet_designers": "Designer (Intelligen Inc.)",
+    "process_description": "This example analyzes a wood biomass pyrolysis process. Pyrolysis is a treatment at increased temperatures in a non-oxidizing environment, which converts the organic raw material into solid char, liquid bio-oil, and gases.\r\nPyrolysis processes can in principle convert renewable wood biomass, agricultural residues, and even post-use rubbers and plastics, into readily usable forms of energy, and feedstock for production of advanced fuels and chemicals. Gasification of bio-oil followed by Fischer-Tropsch and catalytic synthesis processes can lead to production of many basic chemicals and fuels which have the potential replace the existing fossil-based production.\r\nThis pyrolysis plant processes 30 MT/h of wood biomass with a moisture content of around 45% w/w. The plant is assumed to be operative for 8400 hours (350 days) per year",
+    "IRR_before_taxes_pct": 4.212421569824218,
+    "payback_period_years": 11.130837336722,
+    "annual_labor_cost_usd": 1738800,
+    "annual_operating_time_s": 30240000,
+    "annual_throughput_kg_yr": 49374213.99809663,
+    "total_purchase_cost_usd": 13200000,
+    "annual_operating_cost_usd": 30580605.34421887,
+    "annual_waste_treatment_usd": 0,
+    "number_of_batches_per_year": 330,
+    "annual_electricity_cost_usd": null,
+    "superpro_stream_flow_to_hour_factor": 3600,
+    "_superpro_stream_flow_to_hour_factor": 3600,
+    "superpro_stream_flows_normalized_to_hourly": true,
+    "_superpro_stream_flows_normalized_to_hourly": true,
+    "_superpro_composition_mass_fraction_backfilled": true
+  },
+  "chemicals": [
+    {
+      "id": "1,2-Cyclopentan",
+      "mw_source": "unresolved",
+      "registry_id": "1,2-Cyclopentan",
+      "mw_confidence": "low"
+    },
+    {
+      "id": "2methox4vinylph",
+      "mw_source": "unresolved",
+      "registry_id": "2methox4vinylph",
+      "mw_confidence": "low"
+    },
+    {
+      "id": "3met,2cyclopent",
+      "mw_source": "unresolved",
+      "registry_id": "3met,2cyclopent",
+      "mw_confidence": "low"
+    },
+    {
+      "id": "Acetic-Acid",
+      "mw_source": "unresolved",
+      "registry_id": "Acetic-Acid",
+      "mw_confidence": "low"
+    },
+    {
+      "id": "Carb. Dioxide",
+      "mw_source": "unresolved",
+      "registry_id": "Carb. Dioxide",
+      "mw_confidence": "low"
+    },
+    {
+      "id": "Carbon Monoxide",
+      "mw_source": "canonical",
+      "registry_id": "Carbon Monoxide",
+      "mw_confidence": "high",
+      "molecular_weight_g_mol": 28.01
+    },
+    {
+      "id": "Char",
+      "mw_source": "unresolved",
+      "registry_id": "Char",
+      "mw_confidence": "low"
+    },
+    {
+      "id": "Creosol",
+      "mw_source": "unresolved",
+      "registry_id": "Creosol",
+      "mw_confidence": "low"
+    },
+    {
+      "id": "Ethyl Alcohol",
+      "mw_source": "canonical",
+      "registry_id": "Ethyl Alcohol",
+      "mw_confidence": "high",
+      "molecular_weight_g_mol": 46.068
+    },
+    {
+      "id": "FURFURAL",
+      "mw_source": "canonical",
+      "registry_id": "FURFURAL",
+      "mw_confidence": "high",
+      "molecular_weight_g_mol": 96.085
+    },
+    {
+      "id": "Glycolaldehyde",
+      "mw_source": "unresolved",
+      "registry_id": "Glycolaldehyde",
+      "mw_confidence": "low"
+    },
+    {
+      "id": "Guaiacol",
+      "mw_source": "unresolved",
+      "registry_id": "Guaiacol",
+      "mw_confidence": "low"
+    },
+    {
+      "id": "Hydrogen",
+      "mw_source": "canonical",
+      "registry_id": "Hydrogen",
+      "mw_confidence": "high",
+      "molecular_weight_g_mol": 2.016
+    },
+    {
+      "id": "Hydroxyacetone",
+      "mw_source": "unresolved",
+      "registry_id": "Hydroxyacetone",
+      "mw_confidence": "low"
+    },
+    {
+      "id": "Hydroxymethylfu",
+      "mw_source": "unresolved",
+      "registry_id": "Hydroxymethylfu",
+      "mw_confidence": "low"
+    },
+    {
+      "id": "Isoeugenol",
+      "mw_source": "unresolved",
+      "registry_id": "Isoeugenol",
+      "mw_confidence": "low"
+    },
+    {
+      "id": "Levoglucosan",
+      "mw_source": "canonical",
+      "registry_id": "Levoglucosan",
+      "mw_confidence": "high",
+      "molecular_weight_g_mol": 162.141
+    },
+    {
+      "id": "Nitrogen",
+      "mw_source": "canonical",
+      "registry_id": "Nitrogen",
+      "mw_confidence": "high",
+      "molecular_weight_g_mol": 28.014
+    },
+    {
+      "id": "Oxygen",
+      "mw_source": "canonical",
+      "registry_id": "Oxygen",
+      "mw_confidence": "high",
+      "molecular_weight_g_mol": 32
+    },
+    {
+      "id": "Water",
+      "mw_source": "canonical",
+      "registry_id": "Water",
+      "mw_confidence": "high",
+      "molecular_weight_g_mol": 18.015
+    },
+    {
+      "id": "Wood Biomass",
+      "mw_source": "unresolved",
+      "registry_id": "Wood Biomass",
+      "mw_confidence": "low"
+    }
+  ],
+  "utilities": {
+    "heat_utilities": [],
+    "other_utilities": [],
+    "power_utilities": []
+  },
+  "_validators": [
+    {
+      "id": "cmmf6a6ks0004s60ex6kt89cg",
+      "name": "Corinne Scown",
+      "email": "cdscown@lbl.gov",
+      "savedAt": "2026-05-06T19:11:32.468Z",
+      "avatarUrl": "https://lh3.googleusercontent.com/a/ACg8ocJu0XnMps05k6zj4qmGYdrkq0AGqkpcB9fKFkNIiXsQH_Ib9gCc=s96-c",
+      "isComplete": false
+    }
+  ],
+  "heat_utilities": [],
+  "other_utilities": [],
+  "power_utilities": [],
+  "_surrogateCounters": {
+    "units": 22,
+    "streams": 39,
+    "utilities": 0
+  }
+}
